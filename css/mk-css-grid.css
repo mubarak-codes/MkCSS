@@ -48,4 +48,5 @@
 
 
 
-.relative{position:relative}.absolute{position:absolute}
+.relative{position:relative}.absolute{position:absolute}.fixed{position : fixed}
+.z-index1{z-index: 1;}.z-index5{z-index: 5;}.z-index10{z-index: 10;}.z-index50{z-index: 50;}.z-index100{z-index: 100;}.z-index500{z-index: 500;}.z-index1000{z-index: 1000;}
