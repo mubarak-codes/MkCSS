@@ -37,7 +37,7 @@
 .bg-blue{background-color :#0D6EFD }.bg-blue10{background-color: #0D6EFD1C}
 .bg-blue25{background-color :#0D6EFD42}.bg-blue50{background-color :#0D6EFD7A}.bg-blue75{background-color :#0D6EFDB8}
 
-.bg-night{background-color : #252525}.bg-ebony{background-color : black}.bg-snow{background-color :white}.bg-gray{background-color :#B8B8B8}.bg-gray10{background-color :#757F8A1F}.bg-gray25{background-color :#757F8A42}.bg-gray50{background-color :#757F8A80}.bg-gray75{background-color :#757F8ABA}
+.bg-night{background-color : #252525}.bg-ebony{background-color : black}.bg-snow{background-color :white}.bg-gray{background-color :#B8B8B8}.bg-gray10{background-color :#757F8A14}.bg-gray25{background-color :#757F8A42}.bg-gray50{background-color :#757F8A80}.bg-gray75{background-color :#757F8ABA}
 
 .bg-pink{background-color: hotpink}.bg-pink10{background-color:#FF69B31F}.bg-pink25{background-color:#FF69B34A}.bg-pink50{background-color:#FF69B385}.bg-pink75{background-color:#FF69B3C4}
 
@@ -50,7 +50,10 @@
 
 .text-brown{color:brown;}.text-gold{color:#E5BF00} .text-gold50{color:#E5BF0078} .text-gold75{color:#E5BF00B8} .text-purple{color:purple} .text-purple50{color:#81007F73}.text-purple75{color:#81007FAB}.text-orange{color:orange}.text-cyan{color:cyan}.text-indigo{color:indigo}.text-red{color:#DC3546}.text-yellow{color:#FEC107}
 
-.text-green{color:#25824F} .text-blue{color :#0D6EFD} .text-night{color: #252525}.text-ebony{color:#000000}
+.text-green{color:#25824F}
+.text-blue{color :#0D6EFD} .text-blue10{color: #0D6EFD21;} .text-blue25{color :#0D6EFD47}.text-blue50{color :#0D6EFD82}.text-blue75{color :#0D6DFDC9}
+
+.text-night{color: #252525}.text-ebony{color:#000000}
 .text-snow{color:#fff}.text-gray{color:#B8B8B8}
 .text-trans{color: transparent }.text-pink{color: hotpink} .text-lemon{color: #B1E548} .text-inherit{color:inherit} 
 
