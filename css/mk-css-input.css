@@ -2,7 +2,7 @@ input, select, textarea{outline:none; background-color:inherit; padding-inline:1
 textarea, input::placeholder{opacity:0.4;color: inherit} .option{opacity:0.4} textarea{height:200px; padding-block:7px}
 
 
-.form{transition: border 0.15s ease-in-out} .form:focus{border: 1px solid #E5E1C8; outline: 4px solid #DDDAC1}
+.form{transition: all 0.15s ease-in-out} .form:focus{border: 1px solid #E5E1C8; outline: 4px solid #DDDAC1; font-size: 14px;}
 
 
 
